@@ -1,0 +1,500 @@
+   41  cd Downloads
+   42  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-95-191-22.compute-1.amazonaws.com
+   43  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-95-191-22.compute-1.amazonaws.com
+   44  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-95-191-22.compute-1.amazonaws.com
+   45  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-95-191-22.compute-1.amazonaws.com
+   46  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-95-191-22.compute-1.amazonaws.com
+   47  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-95-191-22.compute-1.amazonaws.com
+   48  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-209-156-37.compute-1.amazonaws.com
+   49  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-87-213-228.compute-1.amazonaws.com
+   50  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-87-213-228.compute-1.amazonaws.com
+   51  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-209-156-37.compute-1.amazonaws.com
+   52  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-209-156-37.compute-1.amazonaws.com
+   53  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-87-213-228.compute-1.amazonaws.com
+   54  ssh -i "KeyName.pem" ubuntu@ec2-52-91-240-248.compute-1.amazonaws.com
+   55  ssh -i "KeyName.pem" ubuntu@ec2-52-91-240-248.compute-1.amazonaws.com
+   56  ssh -i "KeyName.pem" ubuntu@ec2-52-91-240-248.compute-1.amazonaws.com
+   57  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-39-220.compute-1.amazonaws.com
+   58  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-39-220.compute-1.amazonaws.com
+   59  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-39-220.compute-1.amazonaws.com
+   60  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-39-220.compute-1.amazonaws.com
+   61  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-39-220.compute-1.amazonaws.com
+   62  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-39-220.compute-1.amazonaws.com
+   63  ssh -i "KeyName.pem" ubuntu@ec2-3-81-131-212.compute-1.amazonaws.com
+   64  ssh -i "KeyName.pem" ubuntu@ec2-3-81-131-212.compute-1.amazonaws.com
+   65  ssh -i "KeyName.pem" ubuntu@ec2-3-81-131-212.compute-1.amazonaws.com
+   66  ssh ansible@18.212.64.14
+   67  ssh -i "KeyName.pem" ubuntu@ec2-52-207-56-240.compute-1.amazonaws.com
+   68  ssh -i "KeyName.pem" ubuntu@ec2-52-207-56-240.compute-1.amazonaws.com
+   69  ssh -i "KeyName.pem" ubuntu@ec2-18-233-147-111.compute-1.amazonaws.com
+   70  ssh -i "KeyName.pem" ec2-user@ec2-34-227-106-148.compute-1.amazonaws.com
+   71  ssh -i "KeyName.pem" ec2-user@ec2-34-227-106-148.compute-1.amazonaws.com
+   72  ssh ansible@52.207.56.240
+   73  ssh ansible@52.207.56.240
+   74  ssh ansible@52.207.56.240
+   75  ssh ansible@52.207.56.240
+   76  ssh ansible@52.207.56.240
+   77  clear
+   78  ssh ansible@52.207.56.240
+   79  ssh ansible@3.86.111.159
+   80  ssh ansible@3.86.111.159
+   81  ssh ansible@3.86.111.159
+   82  ssh ansible@3.86.111.159
+   83  ssh ansible@3.86.111.159
+   84  ssh ansible@3.86.111.159
+   85  ssh ansible@3.86.111.159
+   86  ssh ansible@3.86.111.159
+   87  ssh ansible@3.86.111.159
+   88  ssh ansible@3.86.111.159
+   89  ssh ansible@3.86.111.159
+   90  ssh ansible@3.86.111.159
+   91  ssh ansible@3.86.111.159
+   92  ssh ansible@3.86.111.159
+   93  ssh ansible@3.86.111.159
+   94  ssh ansible@3.86.111.159
+   95  ssh ansible@3.86.111.159
+   96  ssh ansible@3.86.111.159
+   97  ssh -i "KeyName.pem" ubuntu@34.230.6.126
+   98  ssh -i "KeyName.pem" ubuntu@34.230.6.126
+   99  ssh -i "KeyName.pem" ubuntu@34.230.6.126
+  100  ssh -i "KeyName.pem" ubuntu@ec2-54-211-144-164.compute-1.amazonaws.com
+  101  ssh -i "KeyName.pem" ubuntu@ec2-54-211-144-164.compute-1.amazonaws.com
+  102  ssh -i "KeyName.pem" ubuntu@ec2-3-95-229-98.compute-1.amazonaws.com
+  103  ssh ansible@3.94.105.108
+  104  ssh ansible@3.94.105.108
+  105  q
+  106  ssh ansible@3.94.105.108
+  107  ssh ansible@3.94.105.108
+  108  ssh ansible@3.94.105.108
+  109  ssh -i "KeyName.pem" ubuntu@3.83.79.227
+  110  ssh -i "KeyName.pem" ubuntu@3.83.79.227
+  111  ssh -i "KeyName.pem" ubuntu@ec2-54-173-215-147.compute-1.amazonaws.com
+  112  ssh -i "KeyName.pem" ubuntu@ec2-54-173-215-147.compute-1.amazonaws.com
+  113  ssh -i "KeyName.pem" ubuntu@ec2-54-173-215-147.compute-1.amazonaws.com
+  114  ssh -i "KeyName.pem" ubuntu@ec2-54-173-215-147.compute-1.amazonaws.com
+  115  ssh -i "KeyName.pem" ubuntu@ec2-54-173-215-147.compute-1.amazonaws.com
+  116  ssh -i "KeyName.pem" ubuntu@ec2-54-173-215-147.compute-1.amazonaws.com
+  117  ssh ansible@18.204.213.40
+  118  ssh ansible@3.88.195.35
+  119  ssh ansible@3.88.195.35
+  120  ssh ansible@3.88.195.35
+  121  ssh ansible@3.88.195.35
+  122  ssh ansible@35.170.249.119
+  123  q!
+  124  ssh ansible@35.170.249.119
+  125  ssh ansible@54.167.107.78
+  126  ssh ansible@54.167.107.78
+  127  ssh ansible@35.170.249.119
+  128  -bash: cd: conf/: Permission denied
+  129  ssh ansible@35.170.249.119
+  130  ssh ansible@35.170.249.119
+  131  ssh ansible@35.170.249.119
+  132  ssh ansible@54.174.48.102
+  133  ssh ansible@54.174.48.102
+  134  ssh ansible@34.207.65.120
+  135  ssh ansible@54.174.48.102
+  136  ssh ansible@34.207.65.120
+  137  ll
+  138  ssh ansible@34.207.65.120
+  139  ssh ansible@34.207.65.120
+  140  ssh ansible@34.207.65.120
+  141  ssh ansible@34.207.65.120
+  142  ssh ansible@34.207.65.120
+  143  ssh ansible@54.165.171.71
+  144  ssh ansible@54.165.171.71
+  145  ssh ansible@54.165.171.71
+  146  ssh ansible@54.165.171.71
+  147  ssh ansible@54.165.171.71
+  148  ssh ansible@34.207.65.120
+  149  ssh ansible@34.207.65.120
+  150  ssh ansible@34.207.65.120
+  151  ssh ansible@34.207.65.120
+  152  ssh ansible@34.207.65.120
+  153  ssh ansible@54.165.171.71
+  154  ssh ansible@54.165.171.71
+  155  ssh ansible@34.207.65.120
+  156  ssh ansible@54.165.171.71
+  157  ssh ansible@54.165.171.71
+  158  ssh ansible@54.165.171.71
+  159  ssh ansible@54.165.171.71
+  160  ssh ansible@54.165.171.71
+  161  ssh ansible@54.165.171.71
+  162  ssh ansible@54.165.171.71
+  163  ssh ansible@34.207.65.120
+  164  ssh ansible@34.207.65.120
+  165  ssh ansible@54.165.171.71
+  166  aah ansible@54.145.166.161
+  167  ssh ansible@54.145.166.161
+  168  ssh ansible@52.7.138.118
+  169  ssh ansible@3.86.158.131
+  170  ssh ansible@3.95.188.87
+  171  ssh ansible@54.208.163.205
+  172  ssh ansible@54.89.11.34
+  173  ssh ansible@54.89.11.34
+  174  ssh ansible@3.87.15.213
+  175  ssh ansible@54.89.11.34
+  176  ssh ansible@3.88.192.249
+  177  ssh ansible@3.88.192.249
+  178  ssh ansible@34.230.45.70
+  179  ssh ansible@3.93.82.100
+  180  ssh ansible@3.93.82.100
+  181  ssh ansible@3.93.82.100
+  182  ssh ansible@54.84.207.32
+  183  ssh ansible@54.84.207.32
+  184  ssh ansible@3.93.82.100
+  185  ssh ansible@54.84.207.32
+  186  ssh ansible@3.93.82.100
+  187  ssh ansible@3.95.10.75
+  188  ssh ansible@3.95.10.75
+  189  ssh ansible@3.95.10.75
+  190  ssh ansible@3.95.10.75
+  191  ssh ansible@3.95.10.75
+  192  ssh ansible@3.95.10.75
+  193  ssh ansible@3.95.10.75
+  194  ssh ansible@3.95.10.75
+  195  ssh ansible@3.95.10.75
+  196  ssh ansible@3.95.10.75
+  197  ssh ansible@3.95.10.75
+  198  ssh ansible@54.89.247.147
+  199  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  200  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  201  ssh ansible@54.89.247.147
+  202  ssh ansible@54.89.247.147
+  203  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  204  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  205  ssh ansible@54.89.247.147
+  206  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  207  ssh ansible@54.89.247.147
+  208  ssh ansible@54.89.247.147
+  209  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  210  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  211  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-94-53-72.compute-1.amazonaws.com
+  212  ssh ansible@54.89.247.147
+  213  kitchen login
+  214  kitchen login
+  215  kitchen login
+  216  ssh -i "KeyName.pem" ubuntu@ec2-18-234-222-108.compute-1.amazonaws.com
+  217  ssh -i "KeyName.pem" ubuntu@ec2-18-234-222-108.compute-1.amazonaws.com
+  218  ssh -i "KeyName.pem" ubuntu@ec2-18-234-222-108.compute-1.amazonaws.com
+  219  ssh -i "KeyName.pem" ubuntu@ec2-18-234-222-108.compute-1.amazonaws.com
+  220  ssh -i "KeyName.pem" ubuntu@ec2-18-234-222-108.compute-1.amazonaws.com
+  221  ssh -i "KeyName.pem" ubuntu@ec2-18-234-222-108.compute-1.amazonaws.com
+  222  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  223  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  224  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  225  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  226  ssh -i "KeyName.pem" ubuntu@ec2-54-152-209-88.compute-1.amazonaws.com
+  227  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  228  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  229  ssh -i "KeyName.pem" ubuntu@ec2-54-145-104-250.compute-1.amazonaws.com
+  230  ssh -i "KeyName.pem" ubuntu@ec2-54-162-134-170.compute-1.amazonaws.com
+  231  ssh -i "KeyName.pem" ubuntu@ec2-54-162-134-170.compute-1.amazonaws.com
+  232  ssh -i "KeyName.pem" ubuntu@ec2-54-162-134-170.compute-1.amazonaws.com
+  233  ssh -i "KeyName.pem" ubuntu@ec2-54-162-134-170.compute-1.amazonaws.com
+  234  ssh -i "KeyName.pem" ubuntu@ec2-54-162-134-170.compute-1.amazonaws.com
+  235  ssh ansible@52.207.243.167
+  236  ssh ansible@52.207.243.167
+  237  ssh ansible@52.207.243.167
+  238  ssh ansible@52.207.243.167
+  239  ssh ansible@52.207.243.167
+  240  ssh ansible@52.207.243.167
+  241  ssh ansible@52.207.243.167
+  242  ssh -v 52.207.243.167
+  243  ssh -v 52.207.243.167
+  244  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-144-33-13.compute-1.amazonaws.com
+  245  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-144-33-13.compute-1.amazonaws.com
+  246  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-144-33-13.compute-1.amazonaws.com
+  247  A
+  248  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-144-33-13.compute-1.amazonaws.com
+  249  pint HOSTNAME
+  250  ps -aux | grep "22"
+  251  service sshd restart
+  252  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-80-148-227.compute-1.amazonaws.com
+  253  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-80-148-227.compute-1.amazonaws.com
+  254  ssh -i "AnsibleCM.pem" ubuntu@ec2-35-172-141-104.compute-1.amazonaws.com
+  255  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-80-148-227.compute-1.amazonaws.com
+  256  ssh ansible@3.80.148.227
+  257  ssh ansible@3.80.148.227
+  258  ssh ansible@3.80.148.227
+  259  ssh ansible@3.80.148.227
+  260  ssh ansible@3.80.148.227
+  261  ssh ansible@3.80.148.227
+  262  ssh ansible@3.80.148.227
+  263  ssh ansible@3.80.148.227
+  264  ssh ansible@3.80.148.227
+  265  ssh ansible@3.80.148.227
+  266  ssh ansible@3.80.148.227
+  267  ssh ansible@3.80.148.227
+  268  ssh ansible@3.80.148.227
+  269  ssh ansible@3.80.148.227
+  270  ssh ansible@3.80.148.227
+  271  ssh ansible@3.80.148.227
+  272  ssh ansible@3.80.148.227
+  273  ssh ansible@3.80.148.227
+  274  ssh ansible@3.80.148.227
+  275  ssh ansible@3.80.148.227
+  276  ssh ansible@3.80.148.227
+  277  ssh ansible@3.80.148.227
+  278  ssh ansible@3.80.148.227
+  279  ssh ansible@35.172.141.104
+  280  ssh ansible@35.172.141.104
+  281  ssh ansible@35.172.141.104
+  282  ssh ansible@35.172.141.104
+  283  ssh ansible@35.172.141.104
+  284  ssh ansible@35.172.141.104
+  285  ssh ansible@35.172.141.104
+  286  ssh ansible@35.172.141.104
+  287  ssh ansible@35.172.141.104
+  288  ssh ansible@35.172.141.104
+  289  ssh -i "KeyName.pem" ubuntu@ec2-52-206-74-247.compute-1.amazonaws.com
+  290  ssh -i "KeyName.pem" ubuntu@ec2-3-93-0-42.compute-1.amazonaws.com
+  291  ssh -i "KeyName.pem" ubuntu@ec2-3-93-0-42.compute-1.amazonaws.com
+  292  ssh -i "KeyName.pem" ubuntu@ec2-3-93-0-42.compute-1.amazonaws.com
+  293  ssh -i "KeyName.pem" ubuntu@ec2-54-164-97-162.compute-1.amazonaws.com
+  294  ssh -i "AnsibleCM.pem" ubuntu@ec2-52-87-182-111.compute-1.amazonaws.com
+  295  ssh -i "AnsibleCM.pem" ubuntu@ec2-52-87-182-111.compute-1.amazonaws.com
+  296  ssh -i "AnsibleCM.pem" ubuntu@ec2-52-87-182-111.compute-1.amazonaws.com
+  297  ssh ansible@34.238.240.247
+  298  ssh ansible@34.238.240.247
+  299  ssh ansible@34.238.240.247
+  300  ssh ansible@34.238.240.247
+  301  ssh ansible@52.87.182.111
+  302  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-157-196-38.compute-1.amazonaws.com
+  303  ssh -i "AnsibleCM.pem" ubuntu@ec2-54-157-196-38.compute-1.amazonaws.com
+  304  ssh -i "AnsibleCM.pem" ubuntu@ec2-3-83-163-22.compute-1.amazonaws.com
+  305  ssh ansible@18.205.154.41
+  306  ssh ansible@18.205.154.41
+  307  ssh ansible@18.205.154.41
+  308  ssh ansible@18.205.154.41
+  309  ssh ansible@18.205.154.41
+  310  kitchen login 
+  311  kitchen login instance default-ubuntu 1604
+  312  kitchen login instance --name ubuntu 1604
+  313  kitchen login instance -name ubuntu
+  314  kitchen list
+  315  kitchen login default-Redhat
+  316  ssh -i "KeyName.pem" ubuntu@ec2-34-201-134-88.compute-1.amazonaws.com
+  317  ssh -i "KeyName.pem" ubuntu@ec2-3-95-191-156.compute-1.amazonaws.com
+  318  ssh -i "KeyName.pem" ubuntu@ec2-3-95-191-156.compute-1.amazonaws.com
+  319  ssh -i "KeyName.pem" ubuntu@ec2-3-95-191-156.compute-1.amazonaws.com
+  320  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  321  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  322  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  323  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  324  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  325  kitchen list
+  326  kitchen list
+  327  kitchen login default-Redhat
+  328  kitchen login 
+  329  kitchen login default-ubuntu 1604
+  330  kitchen list
+  331  kitchen list
+  332  kitchen login default-Redhat
+  333  kitchen login default-Redhat
+  334  kitchen diagnose --all
+  335  kitchen login default-ubuntu 16.04
+  336  ssh ansible@3.80.148.227
+  337  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  338  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  339  cd Compressed/chef-repo/
+  340  ls
+  341  scp -i "KeyName.pem" ../chef-repo/ ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com:/home/ubuntu
+  342  scp -i "KeyName.pem" -r ../chef-repo/ ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com:/home/ubuntu
+  343  ssh -i "KeyName.pem" ec2-user@ec2-54-164-131-201.compute-1.amazonaws.com
+  344  ls
+  345  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  346  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  347  scp -i "KeyName.pem" -r ../chef-repo/ ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com:/home/ubuntu
+  348  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  349  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  350  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  351  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  352  ssh -i "Ansible.pem" ubuntu@ec2-52-53-196-180.us-west-1.compute.amazonaws.com
+  353  ssh -i "Ansible.pem" ubuntu@ec2-54-193-80-58.us-west-1.compute.amazonaws.com
+  354  ssh -i "Ansible.pem" ubuntu@ec2-52-53-196-180.us-west-1.compute.amazonaws.com
+  355  ssh -i "Ansible.pem" ubuntu@ec2-52-53-196-180.us-west-1.compute.amazonaws.com
+  356  ssh -i "Ansible.pem" ubuntu@ec2-54-193-80-58.us-west-1.compute.amazonaws.com
+  357  ssh -i "Ansible.pem" ubuntu@ec2-54-193-80-58.us-west-1.compute.amazonaws.com
+  358  ssh -i "KeyName.pem" ubuntu@ec2-54-89-252-95.compute-1.amazonaws.com
+  359  ssh -i "KeyName.pem" ec2-user@ec2-3-94-170-160.compute-1.amazonaws.com
+  360  ssh -i "KeyName.pem" ec2-user@ec2-3-94-170-160.compute-1.amazonaws.com
+  361  ssh -i "KeyName.pem" ec2-user@ec2-3-94-170-160.compute-1.amazonaws.com
+  362  ssh -i "KeyName.pem" ec2-user@ec2-3-94-170-160.compute-1.amazonaws.com
+  363  ssh -i "KeyName.pem" ec2-user@ec2-3-94-170-160.compute-1.amazonaws.com
+  364  ssh -i "KeyName.pem" ubuntu@ec2-184-72-177-115.compute-1.amazonaws.com
+  365  ssh -i "KeyName.pem" ubuntu@ec2-184-72-177-115.compute-1.amazonaws.com
+  366  ssh -i "KeyName.pem" ubuntu@ec2-184-72-177-115.compute-1.amazonaws.com
+  367  ssh -i "KeyName.pem" ubuntu@ec2-184-72-177-115.compute-1.amazonaws.com
+  368  ssh -i "KeyName.pem" ubuntu@ec2-184-72-177-115.compute-1.amazonaws.com
+  369  ssh -i "KeyName.pem" ubuntu@ec2-3-94-170-160.compute-1.amazonaws.com
+  370  ssh -i "KeyName.pem" ubuntu@ec2-3-94-170-160.compute-1.amazonaws.com
+  371  ssh -i "KeyName.pem" ubuntu@ec2-54-147-113-3.compute-1.amazonaws.com
+  372  ssh -i "KeyName.pem" ubuntu@ec2-54-147-113-3.compute-1.amazonaws.com
+  373  ssh ansible@35.174.115.239
+  374  ssh -i "AnsibleCM.pem" ubuntu@ec2-18-233-154-75.compute-1.amazonaws.com
+  375  ssh -i "AnsibleCM.pem" ubuntu@ec2-35-174-115-239.compute-1.amazonaws.com
+  376  ssh -i "AnsibleCM.pem" ubuntu@ec2-18-233-154-75.compute-1.amazonaws.com
+  377  ssh -i "AnsibleCM.pem" ubuntu@ec2-18-233-154-75.compute-1.amazonaws.com
+  378  ssh ansible@35.174.115.239
+  379  ssh ansible@35.174.115.239
+  380  mkdir gitlearning
+  381  cd gitlearning/
+  382  git init
+  383  mkdir src
+  384  mkdir test
+  385  mkdir docs
+  386  git status
+  387  git add .
+  388  git status
+  389  touch src/main.yml
+  390  touch test/main.yml
+  391  git status
+  392  git add .
+  393  git status
+  394  cat>>src/main.yml 
+  395  cat src/main.yml 
+  396  git status
+  397  cat>>test/main.yml 
+  398  git status
+  399  git add .
+  400  git status
+  401  git commit -m my first commint
+  402  git commit -m my 'first commint'
+  403  git commit -m my "first commint"
+  404  git commit -m " my first commint"
+  405  git config
+  406  git config --global
+  407  git config --global user.name devopslearningteja
+  408  git config --global user.email dharmateja.veeramani@gmail.com
+  409  git add .
+  410  git status
+  411  git commit -m my 'first commint'
+  412  git 
+  413  git status
+  414  git log
+  415  git log
+  416  cat >>test/main.yml 
+  417  cat test/main.yml 
+  418  cd test/
+  419  cat main.yml
+  420  cat>>main.yml
+  421  cat main.yml
+  422  git status
+  423  git add .
+  424  git commit -m "second commit"
+  425  git status
+  426  git log
+  427  cd ../docs/
+  428  touch demo.txt
+  429  cat>>demo.txt 
+  430  git status
+  431  cd ..
+  432  git status
+  433  git add .
+  434  git commit -m "third commit"
+  435  git status
+  436  git log
+  437  ls
+  438  rm -rf docs/
+  439  ls
+  440  git status
+  441  git add .
+  442  git commit -m "deleted fourth commit"
+  443  git log
+  444  git checkout master
+  445  git log --oneline 
+  446  git checkout 02f23d5
+  447  ls -la
+  448  git checkout 02f23d5
+  449  git checkout e2e74f7
+  450  git checkout 02f23d5
+  451  ssh ansible@54.88.128.176 
+  452  ssh ansible@54.88.128.176 
+  453  ssh ansible@54.88.128.176 
+  454  ssh ansible@54.88.128.176 
+  455  ssh ansible@52.91.206.24
+  456  ssh ansible@52.91.206.24
+  457  ssh ansible@52.91.206.24
+  458  ssh -i "AnsibleCM.pem" ubuntu@ec2-52-91-206-24.compute-1.amazonaws.com
+  459  ssh -i "AnsibleCM.pem" ubuntu@ec2-52-91-206-24.compute-1.amazonaws.com
+  460  ssh ansible@52.91.206.24
+  461  ssh ansible@52.91.206.24
+  462  ssh ansible@52.91.206.24
+  463  ssh ansible@52.91.206.24
+  464  ssh ansible@54.88.128.176
+  465  ssh ansible@18.206.94.191
+  466  ssh ansible@54.196.21.228
+  467  ssh ansible@34.239.111.123
+  468  ssh ansible@34.239.111.123
+  469  ssh ansible@34.239.111.123
+  470  git check out master
+  471  git checkout master
+  472  git branch
+  473  git checkout -b slave
+  474  ls
+  475  cat>>test/main.yml
+  476  git status
+  477  git add .
+  478  git commit -m "from slave"
+  479  git chekout master
+  480  git checkout master
+  481  git merge slave
+  482  git commit -m "merging "
+  483  ls
+  484  cat test/main.yml
+  485  cat>>test/main.yml
+  486  git checkout slave
+  487  cat test/main.yml
+  488  history
+  489  cp history history.txt
+  490  history > history.txt
+  491  ls
+  492  git chekout master
+  493  git checkout master
+  494  git push -u origin master
+  495  git push origin master
+  496  git config --help
+  497  git remote add origin https://github.com/devopslearningteja/git_learning.git
+  498  git push origin master
+  499  ls
+  500  git checkout slave
+  501  ls
+  502  vi src/main.yml
+  503  git checkout master 
+  504  cat src/main.yml 
+  505  catrc/main.yml 
+  506  vi /main.yml 
+  507  vi src/main.yml 
+  508  git merge slave
+  509  git checkout slave 
+  510  git merge master 
+  511  git checkout master 
+  512  vi test/main.yml 
+  513  git checkout slave 
+  514  vi test/main.yml 
+  515  git checkout master 
+  516  git checkout master 
+  517  git status
+  518  git add .
+  519  git commit -m "hi"
+  520  git status
+  521  git checkout slave 
+  522  git status
+  523  vi test/main.yml 
+  524  git add .
+  525  git status
+  526  git commit -m "hi"
+  527  git checkout master 
+  528  git merge slave 
+  529  vi test/main.yml 
+  530  git commit
+  531  git add .
+  532  git commit
+  533  git merge slave 
+  534  git checkout slave 
+  535  ls
+  536  vi test/main.yml 
+  537  ls
+  538  git push origin slave
+  539  history
+  540  history > file
